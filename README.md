@@ -19,19 +19,14 @@ GitHub: [CodēCodes GitHub](https://github.com/Cod-e-Codes)
 Below are some screenshots showcasing the app's features:
 
 <img src="./screenshot1.png" alt="Cover Page" width="400" />  
-[View Full-Size](./screenshot1.png)
 
 <img src="./screenshot2.png" alt="Article Page 1" width="400" />  
-[View Full-Size](./screenshot2.png)
 
 <img src="./screenshot3.png" alt="Article Page 2" width="400" />  
-[View Full-Size](./screenshot3.png)
 
 <img src="./screenshot4.png" alt="Advertisement Page" width="400" />  
-[View Full-Size](./screenshot4.png)
 
 <img src="./screenshot5.png" alt="Reading Progress" width="400" />  
-[View Full-Size](./screenshot5.png)
 
 ## Installation
 1. Clone this repository:

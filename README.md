@@ -31,11 +31,11 @@ Below are some screenshots showcasing the app's features:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Cod-e-Codes/codeverse-magazine-app.git
+   git clone https://github.com/Cod-e-Codes/magazine-app.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd codeverse-magazine-app
+   cd magazine-app
    ```
 3. Install dependencies:
    ```bash
